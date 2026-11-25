@@ -1,5 +1,27 @@
 {
   "说明": "本地合成演练资料",
   "业务对象": "工业点云测量的版本湖与加工特征快照",
-  "记录": []
+  "记录": [
+    {
+      "part_id": "hub-4",
+      "product": "wheel-A",
+      "fixture": "jig-2",
+      "measured_at": "2026-10-05T08:10:00Z",
+      "geometry": "g1"
+    },
+    {
+      "part_id": "hub-4",
+      "product": "wheel-A",
+      "fixture": "jig-3",
+      "measured_at": "2026-10-05T09:40:00Z",
+      "geometry": "g2"
+    },
+    {
+      "part_id": "cap-8",
+      "product": "wheel-B",
+      "fixture": "jig-2",
+      "measured_at": "2026-10-05T10:20:00Z",
+      "geometry": "g1"
+    }
+  ]
 }
